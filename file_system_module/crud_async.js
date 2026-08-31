@@ -24,10 +24,10 @@ fs.appendFile("notes.txt", " Hello Node.js", (err) => {    // append data to the
     console.log("Data successfully appended to the file notes.txt");
 })
 
-fs.rm("notes.txt", (err) => {                              // remove the file
-    if (err) {
-        console.error(err);
-        return;
-    }
-    console.log("File notes.txt successfully removed");
-})
+// fs.rm("notes.txt", (err) => {                              // remove the file
+//     if (err) {
+//         console.error(err);
+//         return;
+//     }
+//     console.log("File notes.txt successfully removed");
+// })

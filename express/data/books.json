@@ -4,11 +4,7 @@
     "title": "To Kill a Mockingbird",
     "author": "Harper Lee",
     "published_year": 1960,
-    "genres": [
-      "Classic",
-      "Fiction",
-      "Historical"
-    ],
+    "genres": ["Classic", "Fiction", "Historical"],
     "available": true,
     "price": 12.99
   },
@@ -17,10 +13,7 @@
     "title": "The Hobbit",
     "author": "J.R.R. Tolkien",
     "published_year": 1937,
-    "genres": [
-      "Fantasy",
-      "Adventure"
-    ],
+    "genres": ["Fantasy", "Adventure"],
     "available": true,
     "price": 14.75
   },
@@ -29,11 +22,7 @@
     "title": "Pride and Prejudice",
     "author": "Jane Austen",
     "published_year": 1813,
-    "genres": [
-      "Classic",
-      "Romance",
-      "Satire"
-    ],
+    "genres": ["Classic", "Romance", "Satire"],
     "available": true,
     "price": 9.99
   },
@@ -42,11 +31,7 @@
     "title": "The Catcher in the Rye",
     "author": "J.D. Salinger",
     "published_year": 1951,
-    "genres": [
-      "Classic",
-      "Fiction",
-      "Coming-of-Age"
-    ],
+    "genres": ["Classic", "Fiction", "Coming-of-Age"],
     "available": false,
     "price": 11.25
   },
@@ -55,11 +40,7 @@
     "title": "Moby-Dick",
     "author": "Herman Melville",
     "published_year": 1851,
-    "genres": [
-      "Adventure",
-      "Epic",
-      "Maritime"
-    ],
+    "genres": ["Adventure", "Epic", "Maritime"],
     "available": true,
     "price": 14.5
   },
@@ -68,10 +49,7 @@
     "title": "War and Peace",
     "author": "Leo Tolstoy",
     "published_year": 1869,
-    "genres": [
-      "Historical Fiction",
-      "Epic"
-    ],
+    "genres": ["Historical Fiction", "Epic"],
     "available": false,
     "price": 18.99
   },
@@ -80,10 +58,7 @@
     "title": "Crime and Punishment",
     "author": "Fyodor Dostoevsky",
     "published_year": 1866,
-    "genres": [
-      "Philosophical Fiction",
-      "Psychological Thriller"
-    ],
+    "genres": ["Philosophical Fiction", "Psychological Thriller"],
     "available": true,
     "price": 13.4
   },
@@ -92,11 +67,7 @@
     "title": "The Odyssey",
     "author": "Homer",
     "published_year": -800,
-    "genres": [
-      "Epic Poetry",
-      "Mythology",
-      "Classic"
-    ],
+    "genres": ["Epic Poetry", "Mythology", "Classic"],
     "available": true,
     "price": 16
   },
@@ -105,10 +76,7 @@
     "title": "Meditations",
     "author": "Marcus Aurelius",
     "published_year": 180,
-    "genres": [
-      "Philosophy",
-      "Stoicism"
-    ],
+    "genres": ["Philosophy", "Stoicism"],
     "available": true,
     "price": 9.5
   },
@@ -117,9 +85,7 @@
     "title": "Beyond Good and Evil",
     "author": "Friedrich Nietzsche",
     "published_year": 1886,
-    "genres": [
-      "Philosophy"
-    ],
+    "genres": ["Philosophy"],
     "available": true,
     "price": 11
   },
@@ -128,10 +94,7 @@
     "title": "Being and Time",
     "author": "Martin Heidegger",
     "published_year": 1927,
-    "genres": [
-      "Philosophy",
-      "Existentialism"
-    ],
+    "genres": ["Philosophy", "Existentialism"],
     "available": false,
     "price": 19.99
   },
@@ -140,11 +103,7 @@
     "title": "Dune",
     "author": "Frank Herbert",
     "published_year": 1965,
-    "genres": [
-      "Sci-Fi",
-      "Science Fiction",
-      "Adventure"
-    ],
+    "genres": ["Sci-Fi", "Science Fiction", "Adventure"],
     "available": true,
     "price": 16.99
   },
@@ -153,10 +112,7 @@
     "title": "Neuromancer",
     "author": "William Gibson",
     "published_year": 1984,
-    "genres": [
-      "Sci-Fi",
-      "Cyberpunk"
-    ],
+    "genres": ["Sci-Fi", "Cyberpunk"],
     "available": true,
     "price": 12.5
   },
@@ -165,10 +121,7 @@
     "title": "The Left Hand of Darkness",
     "author": "Ursula K. Le Guin",
     "published_year": 1969,
-    "genres": [
-      "Sci-Fi",
-      "Science Fiction"
-    ],
+    "genres": ["Sci-Fi", "Science Fiction"],
     "available": false,
     "price": 14
   },
@@ -177,11 +130,7 @@
     "title": "Atomic Habits",
     "author": "James Clear",
     "published_year": 2018,
-    "genres": [
-      "Motivational",
-      "Self-Help",
-      "Productivity"
-    ],
+    "genres": ["Motivational", "Self-Help", "Productivity"],
     "available": true,
     "price": 16
   },
@@ -190,11 +139,7 @@
     "title": "The 7 Habits of Highly Effective People",
     "author": "Stephen R. Covey",
     "published_year": 1989,
-    "genres": [
-      "Motivational",
-      "Self-Help",
-      "Business"
-    ],
+    "genres": ["Motivational", "Self-Help", "Business"],
     "available": true,
     "price": 15.2
   },
@@ -203,10 +148,7 @@
     "title": "Awaken the Giant Within",
     "author": "Tony Robbins",
     "published_year": 1991,
-    "genres": [
-      "Motivational",
-      "Self-Help"
-    ],
+    "genres": ["Motivational", "Self-Help"],
     "available": true,
     "price": 21.55
   },
@@ -215,11 +157,7 @@
     "title": "Man's Search for Meaning",
     "author": "Viktor E. Frankl",
     "published_year": 1946,
-    "genres": [
-      "Philosophy",
-      "Psychology",
-      "Motivational"
-    ],
+    "genres": ["Philosophy", "Psychology", "Motivational"],
     "available": true,
     "price": 11.99
   },
@@ -228,11 +166,7 @@
     "title": "The Alchemist",
     "author": "Paulo Coelho",
     "published_year": 1988,
-    "genres": [
-      "Motivational",
-      "Philosophy",
-      "Adventure"
-    ],
+    "genres": ["Motivational", "Philosophy", "Adventure"],
     "available": true,
     "price": 12.5
   },
@@ -241,10 +175,7 @@
     "title": "The Three-Body Problem",
     "author": "Cixin Liu",
     "published_year": 2008,
-    "genres": [
-      "Sci-Fi",
-      "Science Fiction"
-    ],
+    "genres": ["Sci-Fi", "Science Fiction"],
     "available": true,
     "price": 14.99
   },
@@ -253,11 +184,7 @@
     "title": "Sapiens: A Brief History of Humankind",
     "author": "Yuval Noah Harari",
     "published_year": 2011,
-    "genres": [
-      "History",
-      "Philosophy",
-      "Science"
-    ],
+    "genres": ["History", "Philosophy", "Science"],
     "available": true,
     "price": 16.5
   },
@@ -266,11 +193,7 @@
     "title": "Foundation",
     "author": "Isaac Asimov",
     "published_year": 1951,
-    "genres": [
-      "Sci-Fi",
-      "Science Fiction",
-      "Classic"
-    ],
+    "genres": ["Sci-Fi", "Science Fiction", "Classic"],
     "available": true,
     "price": 14.99
   },
@@ -279,11 +202,7 @@
     "title": "The White Tiger",
     "author": "Aravind Adiga",
     "published_year": 2008,
-    "genres": [
-      "Fiction",
-      "Satire",
-      "Contemporary"
-    ],
+    "genres": ["Fiction", "Satire", "Contemporary"],
     "available": true,
     "price": 14.75
   },
@@ -292,12 +211,9 @@
     "title": "The God of Small Things",
     "author": "Arundhati Roy",
     "published_year": 1997,
-    "genres": [
-      "Fiction",
-      "Drama",
-      "Classic"
-    ],
+    "genres": ["Fiction", "Drama", "Classic"],
     "available": true,
     "price": 13.5
-  }
+  },
+  null
 ]
